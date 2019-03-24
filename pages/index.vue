@@ -6,7 +6,7 @@
         winx-dev-ochka
       </h1>
       <h2 class="subtitle">
-        That&#39;s how we use internet in 2k19
+        That&#39;s how we use internet in 2k19 
       </h2>
       <div class="links">
         <a
